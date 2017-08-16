@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/test/.android/build-cache/2a2e254432997d2672d2e00bda89ca4f6dec5e5e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e3a3d62fab67ccb83f386a4c092bfb5747ea15a7">
+        <dex dex="/home/test/Documents/Reference apps/Vigsa/app/build/intermediates/pre-dexed/debug/classes_0f35d180c91fed2ad91028a756e50de128eb62c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/test/.android/build-cache/df8713d43fe24023619f80df387585287aec29c3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="/home/test/Documents/Reference apps/Vigsa/app/build/intermediates/pre-dexed/debug/classes_d796dcff251ddee4a82ee184a2127f6c85d03d31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/test/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/test/Documents/Reference apps/Vigsa/app/build/intermediates/pre-dexed/debug/library-2.4.0_8173151749f7d89c90612a0ac06dbd92f20ff54e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/test/.android/build-cache/8c15ded76d8ec5eab7732e2db82fc2f99837b865/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="09d89c0a8e2ba8d2fd5e7110d62bc6916d642567">
+        <dex dex="/home/test/Documents/Reference apps/Vigsa/app/build/intermediates/pre-dexed/debug/classes_92d98525a894f102f889a6e58b2cb9414d4cdc94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/test/.android/build-cache/d28e50350667723e25557be0a457224b96d302ea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="/home/test/Documents/Reference apps/Vigsa/app/build/intermediates/pre-dexed/debug/classes_ab9fc26bba88f564aa096bf1c21f28d97704a73f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/test/.android/build-cache/0d6eba687e9e511f2dc0a7d5a3fb949ddaaf7b6d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf4fb00f04118828b9faea3f72e1514065a5441e">
+        <dex dex="/home/test/Documents/Reference apps/Vigsa/app/build/intermediates/pre-dexed/debug/classes_890577a545a021723ad18e0b302970503c7355a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/test/.android/build-cache/b373d3cad2be07e98fe0b505313b27b090b242d1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="/home/test/Documents/Reference apps/Vigsa/app/build/intermediates/pre-dexed/debug/classes_4904589dd261303ecc8e8bfda65df6278bb1cf7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/test/.android/build-cache/5940478b92dc23bf37bcc5a62fac31e9aa3a53f7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6924ef2127a1fb106d13d701c25b2688223c0fad">
+        <dex dex="/home/test/Documents/Reference apps/Vigsa/app/build/intermediates/pre-dexed/debug/classes_6818377b881851ebea20fa71d439fc786fe32e54.jar" />
+    </item>
+
+</items>

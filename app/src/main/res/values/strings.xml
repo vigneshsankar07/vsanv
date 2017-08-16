@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">VsanV</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+    <string name="app_font">appfont.otf</string>
+    <string name="app_font_diti">diti_sweet.ttf</string>
+    <string name="app_font_german">germania_one.ttf</string>
+    <string name="app_font_sim">slimjim.ttf</string>
+    <string name="app_font_streat">streatwear.otf</string>
+    <string name="app_font_vol">volatire.ttf</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="message">Watch face tapped</string>
+    <string name="my_analog_name">My Analog</string>
+
+    <string name="hello">Hello World!</string>
+    <string name="title">Hello Notification!</string>
+    <string name="notification_posted">Notification posted</string>
+
+    <string name="verification_code">Verification code</string>
+    <string name="verify">Verify</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
