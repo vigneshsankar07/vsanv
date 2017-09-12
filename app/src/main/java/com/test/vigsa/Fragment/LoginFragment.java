@@ -1,4 +1,4 @@
-package com.test.vigsa;
+package com.test.vigsa.Fragment;
 
 import android.content.Context;
 import android.net.Uri;
@@ -7,7 +7,9 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
- 
+
+import com.test.vigsa.R;
+
 /**
  * A simple {@link Fragment} subclass.
  * Activities that contain this fragment must implement the
