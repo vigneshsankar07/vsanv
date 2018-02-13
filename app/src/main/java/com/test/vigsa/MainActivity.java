@@ -1,5 +1,6 @@
 package com.test.vigsa;
 
+import android.content.Intent;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -43,7 +44,8 @@ public class MainActivity extends AppCompatActivity {
         btnVerify.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //send verification code to server
+                Intent main = new Intent(MainActivity.this,NavigationDrawer.class);
+                startActivity(main);//send verification code to server
             }
         });
     }
